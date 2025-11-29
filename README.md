@@ -25,4 +25,8 @@ This is a basic, functional calculator implemented using HTML, CSS, and JavaScri
 
 
 
-Basic Arithmetic: Supports addition $(+)$, subtraction $(-)$, multiplication $(*)$, and division $(/)$.Clear Display: Allows for clearing the input/result (Currently missing but can be easily added).Simple UI: A responsive, grid-based layout for the calculator buttons.
+Basic Arithmetic: Supports addition $(+)$, subtraction $(-)$, multiplication $(*)$, and division $(/)$.
+
+Clear Display: Allows for clearing the input/result.
+
+Simple UI: A responsive, grid-based layout for the calculator buttons.
